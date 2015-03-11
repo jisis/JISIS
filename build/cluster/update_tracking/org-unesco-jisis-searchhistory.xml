@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.searchhistory">
+    <module_version install_time="1425643670137" last="true" origin="installer" specification_version="1.0">
+        <file crc="2808094659" name="config/Modules/org-unesco-jisis-searchhistory.xml"/>
+        <file crc="3148671177" name="modules/org-unesco-jisis-searchhistory.jar"/>
+    </module_version>
+</module>

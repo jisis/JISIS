@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Services">
+        <folder name="JavaHelp">
+            <file name="org-unesco-jisis-searchhistory-docs.xml">
+                <!--org.unesco.jisis.searchhistory.docs-->
+                <attr intvalue="3985" name="position"/><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE helpsetref PUBLIC "-//NetBeans//DTD JavaHelp Help Set Reference 1.0//EN" "http://www.netbeans.org/dtds/helpsetref-1_0.dtd">
+<helpsetref url="nbdocs:/org/unesco/jisis/searchhistory/docs/searchhistory-hs.xml" merge="true"/>
+]]></file>
+        </folder>
+    </folder>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="org_unesco_jisis_searchhistory">
+                <file name="DataViewerList" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--org.unesco.jisis.searchhistory.DataViewerListTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//org.unesco.jisis.searchhistory//DataViewerList//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="org">
+                <folder name="unesco">
+                    <folder name="jisis">
+                        <folder name="searchhistory">
+                            <file name="DataViewerListTopComponent">
+                                <!--org.unesco.jisis.searchhistory.DataViewerListTopComponent-->
+                                <attr name="settings.providerPath" stringvalue="xml/lookups//org_unesco_jisis_searchhistory/DataViewerList.instance"/>
+                            </file>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="org_unesco_jisis_searchhistory">
+                <file name="DataViewerList.instance">
+                    <!--org.unesco.jisis.searchhistory.DataViewerListTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="org.unesco.jisis.searchhistory.DataViewerListTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="org.unesco.jisis.searchhistory.DataViewerListTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

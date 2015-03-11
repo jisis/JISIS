@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.importexport">
+    <module_version install_time="1425643670927" last="true" origin="installer" specification_version="1.0">
+        <file crc="1110695657" name="config/Modules/org-unesco-jisis-importexport.xml"/>
+        <file crc="715928674" name="modules/org-unesco-jisis-importexport.jar"/>
+    </module_version>
+</module>

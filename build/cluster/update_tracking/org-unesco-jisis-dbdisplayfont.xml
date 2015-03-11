@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.dbdisplayfont">
+    <module_version install_time="1425643672394" last="true" origin="installer" specification_version="1.0">
+        <file crc="437024297" name="config/Modules/org-unesco-jisis-dbdisplayfont.xml"/>
+        <file crc="2508199258" name="modules/org-unesco-jisis-dbdisplayfont.jar"/>
+    </module_version>
+</module>

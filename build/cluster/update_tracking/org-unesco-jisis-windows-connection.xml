@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.windows.connection">
+    <module_version install_time="1425643671343" last="true" origin="installer" specification_version="1.0.6">
+        <file crc="1466355024" name="config/Modules/org-unesco-jisis-windows-connection.xml"/>
+        <file crc="3630164828" name="modules/docs/org-unesco-jisis-windows-connection.jar"/>
+        <file crc="607302259" name="modules/org-unesco-jisis-windows-connection.jar"/>
+    </module_version>
+</module>

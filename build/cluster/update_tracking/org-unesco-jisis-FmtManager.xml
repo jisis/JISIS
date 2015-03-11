@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.FmtManager">
+    <module_version install_time="1425643672084" last="true" origin="installer" specification_version="1.0">
+        <file crc="1379063776" name="config/Modules/org-unesco-jisis-FmtManager.xml"/>
+        <file crc="2815064062" name="modules/ext/jfindreplace.jar"/>
+        <file crc="3063625325" name="modules/org-unesco-jisis-FmtManager.jar"/>
+    </module_version>
+</module>

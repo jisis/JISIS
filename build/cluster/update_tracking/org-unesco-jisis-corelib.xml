@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.corelib">
+    <module_version install_time="1425890893141" last="true" origin="installer" specification_version="1.0">
+        <file crc="100886448" name="config/Modules/org-unesco-jisis-corelib.xml"/>
+        <file crc="2413819351" name="modules/ext/commons-beanutils-1.9.1.jar"/>
+        <file crc="3196282351" name="modules/ext/commons-codec-1.7.jar"/>
+        <file crc="4200804753" name="modules/ext/commons-io-2.1.jar"/>
+        <file crc="2621656446" name="modules/ext/commons-lang3-3.1.jar"/>
+        <file crc="1252004640" name="modules/ext/gson-2.1.jar"/>
+        <file crc="1253341819" name="modules/ext/jcl-over-slf4j-1.6.4.jar"/>
+        <file crc="2940665482" name="modules/ext/je-4.1.10.jar"/>
+        <file crc="1545169997" name="modules/ext/jisis-core.jar"/>
+        <file crc="2199784579" name="modules/ext/jsoup-1.8.1.jar"/>
+        <file crc="1484850960" name="modules/ext/log4j-1.2.16.jar"/>
+        <file crc="1753047847" name="modules/ext/log4j-over-slf4j-1.6.4.jar"/>
+        <file crc="3287680376" name="modules/ext/logback-classic-1.0.0.jar"/>
+        <file crc="2506924198" name="modules/ext/logback-core-1.0.0.jar"/>
+        <file crc="3932284949" name="modules/ext/multitreemap.jar"/>
+        <file crc="999681251" name="modules/ext/shiro-all-1.2.3.jar"/>
+        <file crc="2352678265" name="modules/ext/slf4j-api-1.6.4.jar"/>
+        <file crc="3757283221" name="modules/org-unesco-jisis-corelib.jar"/>
+    </module_version>
+</module>

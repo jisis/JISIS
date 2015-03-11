@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.groovy220">
+    <module_version install_time="1425643669075" last="true" origin="installer" specification_version="1.0">
+        <file crc="1458996844" name="config/Modules/org-unesco-jisis-groovy220.xml"/>
+        <file crc="2940441257" name="modules/ext/groovy-all-2.2.0.jar"/>
+        <file crc="1285537002" name="modules/org-unesco-jisis-groovy220.jar"/>
+    </module_version>
+</module>

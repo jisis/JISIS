@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.bdb50103">
+    <module_version install_time="1425643669003" last="true" origin="installer" specification_version="1.0">
+        <file crc="4190551407" name="config/Modules/org-unesco-jisis-bdb50103.xml"/>
+        <file crc="3865879268" name="modules/ext/je-5.0.103.jar"/>
+        <file crc="1106874442" name="modules/org-unesco-jisis-bdb50103.jar"/>
+    </module_version>
+</module>

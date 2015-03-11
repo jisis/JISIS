@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.weboutput">
+    <module_version install_time="1425643671986" last="true" origin="installer" specification_version="1.0">
+        <file crc="3764991608" name="config/Modules/org-unesco-jisis-weboutput.xml"/>
+        <file crc="2621656446" name="modules/ext/commons-lang3-3.1.jar"/>
+        <file crc="4044702573" name="modules/org-unesco-jisis-weboutput.jar"/>
+    </module_version>
+</module>

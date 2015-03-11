@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.jisisutils">
+    <module_version install_time="1425643669695" last="true" origin="installer" specification_version="1.0">
+        <file crc="1680869378" name="config/Modules/org-unesco-jisis-jisisutils.xml"/>
+        <file crc="2352678265" name="modules/ext/slf4j-api-1.6.4.jar"/>
+        <file crc="1870110932" name="modules/org-unesco-jisis-jisisutils.jar"/>
+    </module_version>
+</module>

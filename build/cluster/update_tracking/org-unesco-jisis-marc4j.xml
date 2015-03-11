@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.marc4j">
+    <module_version install_time="1425643669342" last="true" origin="installer" specification_version="1.0">
+        <file crc="2685994613" name="config/Modules/org-unesco-jisis-marc4j.xml"/>
+        <file crc="3934227824" name="modules/ext/marc4j.jar"/>
+        <file crc="4036459513" name="modules/org-unesco-jisis-marc4j.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.dataentryex">
+    <module_version install_time="1425643671557" last="true" origin="installer" specification_version="1.0">
+        <file crc="378811128" name="config/Modules/org-unesco-jisis-dataentryex.xml"/>
+        <file crc="481030072" name="modules/org-unesco-jisis-dataentryex.jar"/>
+    </module_version>
+</module>

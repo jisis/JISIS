@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.options">
+    <module_version install_time="1416338680431" last="true" origin="installer" specification_version="6.32.1">
+        <file crc="2763036759" name="config/Modules/org-openide-options.xml"/>
+        <file crc="1287052773" name="modules/locale/org-openide-options_ja.jar"/>
+        <file crc="51095637" name="modules/locale/org-openide-options_pt_BR.jar"/>
+        <file crc="3642289770" name="modules/locale/org-openide-options_ru.jar"/>
+        <file crc="1581551208" name="modules/locale/org-openide-options_zh_CN.jar"/>
+        <file crc="1356987767" name="modules/org-openide-options.jar"/>
+    </module_version>
+</module>

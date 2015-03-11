@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.validationapi">
+    <module_version install_time="1425643671253" last="true" origin="installer" specification_version="1.0">
+        <file crc="2312396051" name="config/Modules/org-unesco-jisis-validationapi.xml"/>
+        <file crc="3894936877" name="modules/ext/ValidationAPI.jar"/>
+        <file crc="840810729" name="modules/org-unesco-jisis-validationapi.jar"/>
+    </module_version>
+</module>

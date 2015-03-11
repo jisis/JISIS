@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<srw_dc:dcCollection xsi:schemaLocation="info:srw/schema/1/dc-schema http://www.loc.gov/standards/sru/resources/dc-schema.xsd " xmlns:srw_dc="info:srw/schema/1/dc-schema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://purl.org/dc/elements/1.1/">
+<srw_dc:dc>
+<title>Summerland /</title>
+<creator>Chabon, Michael.</creator>
+<type>text</type>
+<publisher>New York : Miramax Books/Hyperion Books for Children,</publisher>
+<date>c2002.</date>
+<language>eng</language>
+<description>Ethan Feld, the worst baseball player in the history of the game, finds himself recruited by a 100-year-old scout to help a band of fairies triumph over an ancient enemy.</description>
+<subject>Fantasy.</subject>
+<subject>Baseball--Fiction.</subject>
+<subject>Magic--Fiction.</subject>
+<identifier>URN:ISBN:0786808772</identifier>
+<identifier>URN:ISBN:0786816155 (pbk.)</identifier>
+</srw_dc:dc>
+</srw_dc:dcCollection>

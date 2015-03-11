@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.templates/1">
+    <module_version install_time="1416339170549" last="true" origin="installer" specification_version="1.3.1">
+        <file crc="1866266725" name="config/Modules/org-netbeans-modules-templates.xml"/>
+        <file crc="1255737980" name="modules/locale/org-netbeans-modules-templates_ja.jar"/>
+        <file crc="4119727654" name="modules/locale/org-netbeans-modules-templates_pt_BR.jar"/>
+        <file crc="3305592071" name="modules/locale/org-netbeans-modules-templates_ru.jar"/>
+        <file crc="2102512906" name="modules/locale/org-netbeans-modules-templates_zh_CN.jar"/>
+        <file crc="4039731034" name="modules/org-netbeans-modules-templates.jar"/>
+    </module_version>
+</module>

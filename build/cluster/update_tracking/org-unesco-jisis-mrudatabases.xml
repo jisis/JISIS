@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.mrudatabases">
+    <module_version install_time="1425643672179" last="true" origin="installer" specification_version="1.0">
+        <file crc="4200857079" name="config/Modules/org-unesco-jisis-mrudatabases.xml"/>
+        <file crc="399860738" name="modules/org-unesco-jisis-mrudatabases.jar"/>
+    </module_version>
+</module>

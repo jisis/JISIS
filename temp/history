@@ -1,0 +1,64 @@
+[CDS_txtMfnsSort]
+29-30
+[CDS-CLONE_txtMfnListAdd]
+1
+[PATR_txtMfns]
+1
+6
+[PATR_outputFileName]
+PATR-test1.html
+PATR-test2.html
+[CDS-CLONE_FreeTextSearch]
+V0:\'\\\\%\'
+V0=\'Africa\'
+V0=\'\\\\%\'
+v0=\'\\\\%\'
+v0=\'\\\\\\\\%\'
+[PATR_txtOutputDir]
+C:\\J-ISIS 2014\\jisis\\work
+[SciELO_FreeTextSearch]
+V0:\'Africa\'
+[PERSO-SR-VIVIANE_FreeTextSearch]
+v0:\'Marseille\'
+[CDS_txtOutputDir]
+C:\\J-ISIS 2014\\jisis\\work
+[CDS-CLONE_txtContentAdd]
+AAAA%BBBB%CC 5\\%C
+[CDS_txtToFind]
+Techniques
+[CDS_txtNewText]
+Techniques1
+[CDS_outputFileName]
+Sort3.html
+maps.html
+Africa.html
+SortOnDate.html
+test3.html
+test4.html
+test2.html
+test1.html
+[CDS_txtHeadingFormat]
+MHL,\'<h1>\'V70(0,4)\'</h1>\'/\'<h2 style=\"margin-left:inherit;\">\'V26(4,8)\'</h2>\',\n%/\'<h3 style=\"margin-left:inherit;  \">\'V24(8,12)\'</h3>\'
+MHL,\'<h1>\'V70(0,4)\'</h1>\'/\'<h2 style=\"padding-left:inherit;\">\'V26(4,8)\'</h2>\',\n%/\'<h3 style=\"padding-left:inherit;  max-width:  1654px\">\'V24(8,12)\'</h3>\'
+MHL,\'<h1>\'V70(0,4)\'</h1>\'/\'<h2 style=\"padding-left:inherit;\">\'V26(4,8)\'</h2>\',\n%/\'<h3 style=\"padding-left:inherit;\">\'V24(8,12)\'</h3>\'
+MHL,\'<h1>\'V70(0,4)\'</h1>\'/#\'<h2 style=\"padding-left:inherit;\">\'V26(4,8)\'</h2>\',/#\'<h3 style=\"padding-left:inherit;\">\'V24(8,12)\'</h3>\'
+MHL,\'<h1>\'V70(0,4)\'</h1>\'/#\'<h2 style=\"padding-left:inherit;\">\'V26(4,8)\'</h2>\',\n/#\'<h3 style=\"padding-left:inherit;\">\'V24(8,12)\'</h3>\'
+MHL,#\'<h1>\'V70(0,4)\'</h1>\'/#\'<h2>\'V26(4,8)\'</h2>\',/#\'<h3>\'V24(8,12)\'</h3>\'
+MHL,\"<h1>\"#V70(0,4)/\'</h1>\',\"<h2>\"#V26(4,8)/\'</h2>\',\"<h3>\"#V24(8,12)\'</h3>\'
+MHL,\"<h1>\"#V70(0,4)/\'</h1>,\"<h2>\"#V26(4,8)/\'</h2>\',\"<h3>\"#V24(8,12)\'</h3>\'
+MHL,\"\"#V70(0,4)/,\"\"#V26(4,8)/,\"\"#V24(8,12)
+[CDS_txtMfns]
+1
+10-11
+5-6
+3-4
+1,2
+[CDS_FreeTextSearch]
+V0:\'Africa\'
+v0:\'Africa\'\n
+v0:\'Africa\'
+V0:\'Africa\'\n
+[CDS_txtMfnListReplace]
+1-2
+[CDS_txtTagsReplace]
+24

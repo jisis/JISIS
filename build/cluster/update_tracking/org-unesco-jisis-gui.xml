@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.gui">
+    <module_version install_time="1425643670029" last="true" origin="installer" specification_version="1.0">
+        <file crc="582531185" name="config/Modules/org-unesco-jisis-gui.xml"/>
+        <file crc="28241745" name="modules/ext/commons-collections-3.2.1.jar"/>
+        <file crc="2331109943" name="modules/org-unesco-jisis-gui.jar"/>
+    </module_version>
+</module>

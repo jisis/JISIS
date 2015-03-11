@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.tika15">
+    <module_version install_time="1425643671013" last="true" origin="installer" specification_version="1.0">
+        <file crc="1065455820" name="config/Modules/org-unesco-jisis-tika15.xml"/>
+        <file crc="3540737396" name="modules/ext/tika-app-1.5.jar"/>
+        <file crc="2884061652" name="modules/org-unesco-jisis-tika15.jar"/>
+    </module_version>
+</module>

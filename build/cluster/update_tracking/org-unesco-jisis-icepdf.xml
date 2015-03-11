@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.icepdf">
+    <module_version install_time="1425643669214" last="true" origin="installer" specification_version="1.0">
+        <file crc="3034158347" name="config/Modules/org-unesco-jisis-icepdf.xml"/>
+        <file crc="1178867850" name="modules/ext/batik-awt-util.jar"/>
+        <file crc="3125591630" name="modules/ext/batik-dom.jar"/>
+        <file crc="620714366" name="modules/ext/batik-svg-dom.jar"/>
+        <file crc="2911982175" name="modules/ext/batik-svggen.jar"/>
+        <file crc="4119387745" name="modules/ext/batik-util.jar"/>
+        <file crc="2858785427" name="modules/ext/batik-xml.jar"/>
+        <file crc="1496924227" name="modules/ext/icepdf-core.jar"/>
+        <file crc="984401269" name="modules/ext/icepdf-viewer.jar"/>
+        <file crc="4274400828" name="modules/ext/pdf-renderer-1.0.5.jar"/>
+        <file crc="2360506985" name="modules/org-unesco-jisis-icepdf.jar"/>
+    </module_version>
+</module>

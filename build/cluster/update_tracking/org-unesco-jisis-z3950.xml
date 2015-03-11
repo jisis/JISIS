@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.z3950">
+    <module_version install_time="1425643672492" last="true" origin="installer" specification_version="1.0">
+        <file crc="1772775543" name="config/Modules/org-unesco-jisis-z3950.xml"/>
+        <file crc="2461914479" name="modules/ext/a2jruntime.jar"/>
+        <file crc="1982769518" name="modules/ext/commons-logging-api.jar"/>
+        <file crc="3364403761" name="modules/ext/commons-logging.jar"/>
+        <file crc="421829403" name="modules/ext/jdbm-0.12.jar"/>
+        <file crc="1688406152" name="modules/ext/jdom.jar"/>
+        <file crc="1042966252" name="modules/ext/junit.jar"/>
+        <file crc="770495641" name="modules/ext/ki-jzkit-hss-1_2_1.jar"/>
+        <file crc="3898114363" name="modules/ext/ki-jzkit-hss-1_2_3.jar"/>
+        <file crc="3013495841" name="modules/ext/ki-jzkit-iface-1_2_1.jar"/>
+        <file crc="482887853" name="modules/ext/ki-jzkit-iface-1_2_3.jar"/>
+        <file crc="934646868" name="modules/ext/ki-jzkit-z3950-1_2_1.jar"/>
+        <file crc="858993284" name="modules/ext/ki-jzkit-z3950-1_2_3.jar"/>
+        <file crc="622910851" name="modules/ext/ki-util.jar"/>
+        <file crc="1484850960" name="modules/ext/log4j-1.2.16.jar"/>
+        <file crc="838866370" name="modules/ext/log4j-1.2.5.jar"/>
+        <file crc="3934227824" name="modules/ext/marc4j.jar"/>
+        <file crc="3862293305" name="modules/ext/xalan.jar"/>
+        <file crc="3956831883" name="modules/org-unesco-jisis-z3950.jar"/>
+    </module_version>
+</module>

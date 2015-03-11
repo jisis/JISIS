@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.database.explorer">
+    <module_version install_time="1425643671443" last="true" origin="installer" specification_version="1.0.9">
+        <file crc="1392399623" name="config/Modules/org-unesco-jisis-database-explorer.xml"/>
+        <file crc="1044405828" name="modules/docs/org-unesco-jisis-database-explorer.jar"/>
+        <file crc="2376783886" name="modules/org-unesco-jisis-database-explorer.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="java_cup">
+    <module_version install_time="1425643668935" last="true" origin="installer" specification_version="1.0.5">
+        <file crc="1967653318" name="config/Modules/java_cup.xml"/>
+        <file crc="2268919020" name="modules/ext/java_cup.jar"/>
+        <file crc="1297316371" name="modules/java_cup.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.lucene470">
+    <module_version install_time="1425643669281" last="true" origin="installer" specification_version="1.0">
+        <file crc="3338382464" name="config/Modules/org-unesco-jisis-lucene470.xml"/>
+        <file crc="1070461588" name="modules/ext/lucene-analyzers-common-4.7.0.jar"/>
+        <file crc="778492894" name="modules/ext/lucene-core-4.7.0.jar"/>
+        <file crc="3937609984" name="modules/ext/lucene-queries-4.7.0.jar"/>
+        <file crc="3971979161" name="modules/ext/lucene-queryparser-4.7.0.jar"/>
+        <file crc="3376335448" name="modules/org-unesco-jisis-lucene470.jar"/>
+    </module_version>
+</module>

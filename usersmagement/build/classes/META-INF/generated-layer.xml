@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="UsersManagement">
+                <file name="UsersManagement" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--UsersManagement.UsersManagementTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//UsersManagement//UsersManagement//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="UsersManagement">
+                <file name="UsersManagementTopComponent">
+                    <!--UsersManagement.UsersManagementTopComponent-->
+                    <attr name="settings.providerPath" stringvalue="xml/lookups//UsersManagement/UsersManagement.instance"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="UsersManagement">
+                <file name="UsersManagement.instance">
+                    <!--UsersManagement.UsersManagementTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="UsersManagement.UsersManagementTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="UsersManagement.UsersManagementTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

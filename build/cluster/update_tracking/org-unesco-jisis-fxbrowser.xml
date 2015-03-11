@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.fxbrowser">
+    <module_version install_time="1425643669873" last="true" origin="installer" specification_version="1.0">
+        <file crc="2015676169" name="config/Modules/org-unesco-jisis-fxbrowser.xml"/>
+        <file crc="2532214349" name="modules/ext/jfxrt.jar"/>
+        <file crc="4274400828" name="modules/ext/pdf-renderer-1.0.5.jar"/>
+        <file crc="2352678265" name="modules/ext/slf4j-api-1.6.4.jar"/>
+        <file crc="1794589345" name="modules/org-unesco-jisis-fxbrowser.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,77 @@
+2014-09-09 22:37:18,091 DEBUG [pool-5-thread-23] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:88] HandleDbRequest Message Reply - reply= [Msg ID: 26 e_ok: TRUEMessage Obj Class:java.lang.Long
+------------]
+2014-09-09 22:37:18,098 DEBUG [pool-5-thread-23] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:97] HandleDbRequest  getResponse Exit 8 milliseconds to prepare reply on server side
+2014-09-09 22:37:18,099 DEBUG [Default RequestProcessor] o.u.j.c.c.NioClient4 [NioClient4.java:103] NioClient4 10 milliseconds to get reply from server
+2014-09-09 22:37:18,100 DEBUG [pool-5-thread-24] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:64] HandleDbRequest Message Request - MSG ID= [44] [Get Records Count]
+2014-09-09 22:37:18,184 INFO [pool-5-thread-24] o.u.j.c.s.BdbImpl [BdbImpl.java:578] Database Records Count=[2328]
+2014-09-09 22:37:18,184 DEBUG [pool-5-thread-24] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:88] HandleDbRequest Message Reply - reply= [Msg ID: 44 e_ok: TRUEMessage Obj Class:java.lang.Long
+------------]
+2014-09-09 22:37:18,184 DEBUG [pool-5-thread-24] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:97] HandleDbRequest  getResponse Exit 84 milliseconds to prepare reply on server side
+2014-09-09 22:37:18,188 DEBUG [Default RequestProcessor] o.u.j.c.c.NioClient4 [NioClient4.java:103] NioClient4 89 milliseconds to get reply from server
+2014-09-09 22:37:18,189 DEBUG [pool-5-thread-25] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:64] HandleDbRequest Message Request - MSG ID= [8] [Get FDT]
+2014-09-09 22:37:18,277 DEBUG [pool-5-thread-25] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:88] HandleDbRequest Message Reply - reply= [Msg ID: 8 e_ok: TRUEMessage Obj Class:org.unesco.jisis.corelib.common.FieldDefinitionTable
+------------]
+2014-09-09 22:37:18,278 DEBUG [pool-5-thread-25] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:97] HandleDbRequest  getResponse Exit 89 milliseconds to prepare reply on server side
+2014-09-09 22:37:18,288 DEBUG [Default RequestProcessor] o.u.j.c.c.NioClient4 [NioClient4.java:103] NioClient4 99 milliseconds to get reply from server
+2014-09-09 22:37:18,297 DEBUG [pool-5-thread-26] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:64] HandleDbRequest Message Request - MSG ID= [26] [Get Last MFN]
+2014-09-09 22:37:18,298 DEBUG [pool-5-thread-26] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:88] HandleDbRequest Message Reply - reply= [Msg ID: 26 e_ok: TRUEMessage Obj Class:java.lang.Long
+------------]
+2014-09-09 22:37:18,298 DEBUG [pool-5-thread-26] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:97] HandleDbRequest  getResponse Exit 1 milliseconds to prepare reply on server side
+2014-09-09 22:37:18,299 DEBUG [Default RequestProcessor] o.u.j.c.c.NioClient4 [NioClient4.java:103] NioClient4 11 milliseconds to get reply from server
+2014-09-09 22:37:18,300 DEBUG [pool-5-thread-27] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:64] HandleDbRequest Message Request - MSG ID= [44] [Get Records Count]
+2014-09-09 22:37:18,304 INFO [pool-5-thread-27] o.u.j.c.s.BdbImpl [BdbImpl.java:578] Database Records Count=[2328]
+2014-09-09 22:37:18,304 DEBUG [pool-5-thread-27] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:88] HandleDbRequest Message Reply - reply= [Msg ID: 44 e_ok: TRUEMessage Obj Class:java.lang.Long
+------------]
+2014-09-09 22:37:18,304 DEBUG [pool-5-thread-27] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:97] HandleDbRequest  getResponse Exit 4 milliseconds to prepare reply on server side
+2014-09-09 22:37:18,305 DEBUG [Default RequestProcessor] o.u.j.c.c.NioClient4 [NioClient4.java:103] NioClient4 6 milliseconds to get reply from server
+2014-09-09 22:37:18,305 DEBUG [pool-5-thread-28] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:64] HandleDbRequest Message Request - MSG ID= [8] [Get FDT]
+2014-09-09 22:37:18,399 DEBUG [pool-5-thread-28] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:88] HandleDbRequest Message Reply - reply= [Msg ID: 8 e_ok: TRUEMessage Obj Class:org.unesco.jisis.corelib.common.FieldDefinitionTable
+------------]
+2014-09-09 22:37:18,399 DEBUG [pool-5-thread-28] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:97] HandleDbRequest  getResponse Exit 94 milliseconds to prepare reply on server side
+2014-09-09 22:37:18,403 DEBUG [Default RequestProcessor] o.u.j.c.c.NioClient4 [NioClient4.java:103] NioClient4 98 milliseconds to get reply from server
+2014-09-09 22:37:18,404 DEBUG [pool-5-thread-29] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:64] HandleDbRequest Message Request - MSG ID= [46] [Get Dictionary Terms Count]
+2014-09-09 22:37:18,406 ERROR [pool-5-thread-29] o.u.j.c.i.Indexer [Indexer.java:565] Index with no fields - probably empty or corrupted
+2014-09-09 22:37:18,406 DEBUG [pool-5-thread-29] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:88] HandleDbRequest Message Reply - reply= [Msg ID: 46 e_ok: TRUEMessage Obj Class:java.lang.Long
+------------]
+2014-09-09 22:37:18,406 DEBUG [pool-5-thread-29] o.u.j.c.s.HandleDbRequest [HandleDbRequest.java:97] HandleDbRequest  getResponse Exit 2 milliseconds to prepare reply on server side
+2014-09-09 22:37:18,407 DEBUG [Default RequestProcessor] o.u.j.c.c.NioClient4 [NioClient4.java:103] NioClient4 4 milliseconds to get reply from server
+2014-09-09 22:37:19,031 DEBUG [AWT-EventQueue-0] o.u.j.c.s.DbServerService [DbServerService.java:165] Asking thread [java.util.concurrent.Executors$FinalizableDelegatedExecutorService@3d7c07c9] to stop.
+2014-09-09 22:37:19,031 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping org.eclipse.jetty.server.Server@f651d68
+2014-09-09 22:37:19,032 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping SelectChannelConnector@0.0.0.0:8585
+2014-09-09 22:37:19,033 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping org.eclipse.jetty.server.nio.SelectChannelConnector$ConnectorSelectorManager@54d0e307
+2014-09-09 22:37:19,033 DEBUG [qtp972244628-30 Selector0] o.e.j.i.nio [SelectorManager.java:299] Stopped Thread[qtp972244628-30 Selector0,5,IDE Main] on org.eclipse.jetty.io.nio.SelectorManager$1@3dd67c12
+2014-09-09 22:37:19,043 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED org.eclipse.jetty.server.nio.SelectChannelConnector$ConnectorSelectorManager@54d0e307
+2014-09-09 22:37:19,044 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping PooledBuffers [0/1024@6144,0/1024@16384,0/1024@-]/PooledBuffers [0/1024@6144,0/1024@32768,0/1024@-]
+2014-09-09 22:37:19,045 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED null/null
+2014-09-09 22:37:19,045 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED SelectChannelConnector@0.0.0.0:8585
+2014-09-09 22:37:19,045 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping org.eclipse.jetty.server.handler.ContextHandlerCollection@7fb2832e
+2014-09-09 22:37:19,045 DEBUG [AWT-EventQueue-0] o.e.j.s.h.AbstractHandler [AbstractHandler.java:63] stopping org.eclipse.jetty.server.handler.ContextHandlerCollection@7fb2832e
+2014-09-09 22:37:19,046 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping org.eclipse.jetty.server.handler.DefaultHandler@20c28281
+2014-09-09 22:37:19,046 DEBUG [AWT-EventQueue-0] o.e.j.s.h.AbstractHandler [AbstractHandler.java:63] stopping org.eclipse.jetty.server.handler.DefaultHandler@20c28281
+2014-09-09 22:37:19,046 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED org.eclipse.jetty.server.handler.DefaultHandler@20c28281
+2014-09-09 22:37:19,047 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping o.e.j.s.ServletContextHandler{/,file:/C:/jisis-workspace/home_test_db/}
+2014-09-09 22:37:19,047 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping org.eclipse.jetty.server.session.SessionHandler@138a6240
+2014-09-09 22:37:19,047 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping org.eclipse.jetty.server.session.HashSessionManager@639afee3
+2014-09-09 22:37:19,048 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED org.eclipse.jetty.server.session.HashSessionManager@639afee3
+2014-09-09 22:37:19,048 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping org.eclipse.jetty.servlet.ServletHandler@1439570b
+2014-09-09 22:37:19,048 DEBUG [AWT-EventQueue-0] o.e.j.s.h.AbstractHandler [AbstractHandler.java:63] stopping org.eclipse.jetty.servlet.ServletHandler@1439570b
+2014-09-09 22:37:19,049 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping org.apache.jasper.servlet.JspServlet-1
+2014-09-09 22:37:19,049 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED org.apache.jasper.servlet.JspServlet-1
+2014-09-09 22:37:19,049 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping org.eclipse.jetty.servlet.DefaultServlet-1
+2014-09-09 22:37:19,049 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED org.eclipse.jetty.servlet.DefaultServlet-1
+2014-09-09 22:37:19,049 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED org.eclipse.jetty.servlet.ServletHandler@1439570b
+2014-09-09 22:37:19,050 DEBUG [AWT-EventQueue-0] o.e.j.s.h.AbstractHandler [AbstractHandler.java:63] stopping org.eclipse.jetty.server.session.SessionHandler@138a6240
+2014-09-09 22:37:19,050 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED org.eclipse.jetty.server.session.SessionHandler@138a6240
+2014-09-09 22:37:19,050 DEBUG [AWT-EventQueue-0] o.e.j.s.h.AbstractHandler [AbstractHandler.java:63] stopping o.e.j.s.ServletContextHandler{/,file:/C:/jisis-workspace/home_test_db/}
+2014-09-09 22:37:19,050 INFO [AWT-EventQueue-0] o.e.j.s.h.ContextHandler [ContextHandler.java:822] stopped o.e.j.s.ServletContextHandler{/,file:/C:/jisis-workspace/home_test_db/}
+2014-09-09 22:37:19,111 DEBUG [AWT-EventQueue-0] o.e.j.u.c.Container [Container.java:219] Container o.e.j.s.ServletContextHandler{/,file:/C:/jisis-workspace/home_test_db/} - org.eclipse.jetty.server.session.SessionHandler@138a6240 as handler
+2014-09-09 22:37:19,111 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED o.e.j.s.ServletContextHandler{/,file:/C:/jisis-workspace/home_test_db/}
+2014-09-09 22:37:19,112 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED org.eclipse.jetty.server.handler.ContextHandlerCollection@7fb2832e
+2014-09-09 22:37:19,112 DEBUG [AWT-EventQueue-0] o.e.j.s.h.AbstractHandler [AbstractHandler.java:63] stopping org.eclipse.jetty.server.Server@f651d68
+2014-09-09 22:37:19,112 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping org.eclipse.jetty.server.session.HashSessionIdManager@5c22251d
+2014-09-09 22:37:19,112 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED org.eclipse.jetty.server.session.HashSessionIdManager@5c22251d
+2014-09-09 22:37:19,113 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:182] stopping qtp972244628{8<=7<=7/254,0}
+2014-09-09 22:37:19,179 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED qtp972244628{8<=0<=0/254,0}
+2014-09-09 22:37:19,179 DEBUG [AWT-EventQueue-0] o.e.j.u.c.AbstractLifeCycle [AbstractLifeCycle.java:191] STOPPED org.eclipse.jetty.server.Server@f651d68
+2014-09-09 22:37:19,179 INFO [AWT-EventQueue-0] o.u.j.j.JavaISIS [JavaISIS.java:124] Server Thread closed!
+2014-09-09 22:37:19,180 INFO [AWT-EventQueue-0] o.u.j.j.JavaISIS [JavaISIS.java:125] J-ISIS finished

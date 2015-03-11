@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.jisiscore">
+    <module_version install_time="1425643669795" last="true" origin="installer" specification_version="1.0">
+        <file crc="2022340139" name="config/Modules/org-unesco-jisis-jisiscore.xml"/>
+        <file crc="3287680376" name="modules/ext/logback-classic-1.0.0.jar"/>
+        <file crc="2506924198" name="modules/ext/logback-core-1.0.0.jar"/>
+        <file crc="999681251" name="modules/ext/shiro-all-1.2.3.jar"/>
+        <file crc="2352678265" name="modules/ext/slf4j-api-1.6.4.jar"/>
+        <file crc="2399594214" name="modules/org-unesco-jisis-jisiscore.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.swingx">
+    <module_version install_time="1425643669612" last="true" origin="installer" specification_version="1.0">
+        <file crc="3042119366" name="config/Modules/org-unesco-jisis-swingx.xml"/>
+        <file crc="4684788" name="modules/ext/swingx-all-1.6.3.jar"/>
+        <file crc="2679620535" name="modules/org-unesco-jisis-swingx.jar"/>
+    </module_version>
+</module>

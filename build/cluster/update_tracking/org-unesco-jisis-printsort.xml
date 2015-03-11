@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.printsort">
+    <module_version install_time="1425643670752" last="true" origin="installer" specification_version="1.0">
+        <file crc="655981927" name="config/Modules/org-unesco-jisis-printsort.xml"/>
+        <file crc="1252004640" name="modules/ext/gson-2.1.jar"/>
+        <file crc="1814065998" name="modules/ext/xmlworker-5.5.4.jar"/>
+        <file crc="1130661220" name="modules/org-unesco-jisis-printsort.jar"/>
+    </module_version>
+</module>

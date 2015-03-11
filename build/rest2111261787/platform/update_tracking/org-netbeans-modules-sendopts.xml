@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.sendopts/2">
+    <module_version install_time="1416338511353" last="true" origin="installer" specification_version="2.31.1">
+        <file crc="3090052921" name="config/Modules/org-netbeans-modules-sendopts.xml"/>
+        <file crc="2490347738" name="modules/locale/org-netbeans-modules-sendopts_ja.jar"/>
+        <file crc="1072902690" name="modules/locale/org-netbeans-modules-sendopts_pt_BR.jar"/>
+        <file crc="1422302771" name="modules/locale/org-netbeans-modules-sendopts_ru.jar"/>
+        <file crc="2621881921" name="modules/locale/org-netbeans-modules-sendopts_zh_CN.jar"/>
+        <file crc="659187070" name="modules/org-netbeans-modules-sendopts.jar"/>
+    </module_version>
+</module>

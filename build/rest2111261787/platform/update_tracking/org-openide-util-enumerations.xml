@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.openide.util.enumerations">
+    <module_version install_time="1416337927776" last="true" origin="installer" specification_version="6.30.1">
+        <file crc="4290833959" name="config/Modules/org-openide-util-enumerations.xml"/>
+        <file crc="883267053" name="modules/locale/org-openide-util-enumerations_ja.jar"/>
+        <file crc="436843101" name="modules/locale/org-openide-util-enumerations_pt_BR.jar"/>
+        <file crc="1781287580" name="modules/locale/org-openide-util-enumerations_ru.jar"/>
+        <file crc="3579547670" name="modules/locale/org-openide-util-enumerations_zh_CN.jar"/>
+        <file crc="3338970156" name="modules/org-openide-util-enumerations.jar"/>
+    </module_version>
+</module>

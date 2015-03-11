@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.unesco.jisis.GroovyConsole">
+    <module_version install_time="1425643672301" last="true" origin="installer" specification_version="1.0">
+        <file crc="1660893300" name="config/Modules/org-unesco-jisis-GroovyConsole.xml"/>
+        <file crc="1652027865" name="modules/org-unesco-jisis-GroovyConsole.jar"/>
+    </module_version>
+</module>
